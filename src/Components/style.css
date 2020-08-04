@@ -1,0 +1,5 @@
+.BackgroundImage{
+  background-image: url('image1.jpg');
+  background-size: contain;
+  height:  400px;
+}
